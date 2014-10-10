@@ -7,4 +7,3 @@ Feature: code-breaker starts game
 		When I start a new name
 		Then I should see "Welcome to Codebreaker!"
 		And I should see "Enter guess:"
-
